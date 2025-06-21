@@ -16,3 +16,20 @@ BugFlow is a lightweight prototype that demonstrates how to combine **No-Code pl
 4. GitHub Actions triggers `deploy.yml`, simulating deployment
 
 ## 📂 File Structure
+📁 .github
+└── workflows
+└── deploy.yml
+📄 bug-reports.csv
+
+
+## 🚀 Simulated Output
+Each update triggers a deployment workflow:
+
+📦 New bug report received!
+🛠️ Deploying changes using GitOps simulation...
+✅ Deployment simulated successfully
+
+
+## 🎯 Goal
+This project showcases how organizations can build practical internal tools combining **speed (No-Code)** and **stability (GitOps)** — using entirely **free tools**.
+
