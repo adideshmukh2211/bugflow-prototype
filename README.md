@@ -1,4 +1,4 @@
-# 🪲 BugFlow Prototype – No-Code + GitOps Bug Reporting System
+#  BugFlow Prototype – No-Code + GitOps Bug Reporting System
 
 ## 📌 Overview
 BugFlow is a lightweight prototype that demonstrates how to combine **No-Code platforms** and **GitOps workflows** for rapid and reliable bug reporting.
