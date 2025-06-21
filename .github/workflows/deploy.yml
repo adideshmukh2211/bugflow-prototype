@@ -1,0 +1,20 @@
+name: Bug Deploy Workflow
+
+on:
+  push:
+    paths:
+      - 'bug-reports.csv'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Simulate deployment
+        run: |
+          echo "📦 New bug report received!"
+          echo "🛠️ Deploying changes using GitOps simulation..."
+          echo "✅ Deployment simulated successfully"
