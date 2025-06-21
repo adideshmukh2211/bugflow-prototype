@@ -18,7 +18,7 @@ BugFlow is a lightweight prototype that demonstrates how to combine **No-Code pl
 ## 📂 File Structure
 📁 .github
 └── workflows
-└── deploy.yml
+    └── deploy.yml
 📄 bug-reports.csv
 
 
